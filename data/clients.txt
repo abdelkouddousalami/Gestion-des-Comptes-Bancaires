@@ -1,0 +1,2 @@
+1|Alami|Mohamed|mohamed.alami@email.com|123456|2|101:COURANT:0.0|102:EPARGNE:0.0
+2|Benali|Fatima|fatima.benali@email.com|654321|1|103:COURANT:0.0
